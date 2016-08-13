@@ -16,9 +16,8 @@ Dockerfile execute belows;
 1. Install packages which are needed to build ruby
 1. Clone [rbenv](https://github.com/sstephenson/rbenv)
 1. Clone [ruby-build](https://github.com/sstephenson/ruby-build)
+1. Clone [rbenv-default-gems](https://github.com/sstephenson/rbenv-default-gems)
 1. Install multiple versions of ruby which are defined at `versions.txt`
-1. Install Bundler for each version
-
 
 ## Author
 
